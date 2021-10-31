@@ -1,0 +1,20 @@
+h1 
+{
+    color:purple;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.body_background
+{
+    background-image: Url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas
+{
+    border-width: 12px;
+    background-color: white;
+    border-style: ridge;
+}
